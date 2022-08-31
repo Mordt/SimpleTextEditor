@@ -8,3 +8,4 @@ first C++ project, want to create a text editor to:
     6. Search and replace functions.
     7 .Keep track of when the file has been changed.
 
+adding stuff
