@@ -12,4 +12,4 @@ class EditorWindow : public Fl_Double_Window {
 
         Fl_Text_Editor      *editor;
         char                search[256]
-};
+};jhdsfhsdsdjfhsjdhfdf
